@@ -1,0 +1,7 @@
+murphy.wot.eecs.northwestern.edu/~bwf8348/rwb1/rwb.pl
+
+root account:
+name:root
+password:rootroot
+
+Team member: Borui Wang, lin Ling, Yue Shao
